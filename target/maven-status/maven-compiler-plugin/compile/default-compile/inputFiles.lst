@@ -1,0 +1,11 @@
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\filters\LoginRequiredFilter.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\listener\Listener.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\controllers\ListItemServlet.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\controllers\LogoutServlet.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\controllers\DeleteItemServlet.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\controllers\LoginServlet.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\services\UserValidationService.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\controllers\AddItemServlet.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\model\Item.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\controllers\StartupServlet.java
+C:\Users\Oliver\Documents\Code\crud-jsp-servlet\src\main\java\webapp\services\ItemService.java
